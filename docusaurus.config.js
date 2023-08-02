@@ -90,7 +90,7 @@ const config = {
           },
           {
             label: 'Course',
-            to: '/course',
+            to: '/course/intro',
           },
           {
             label: 'GitHub',
