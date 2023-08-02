@@ -1,0 +1,8 @@
+{
+  "label": "Introduction to React.js",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Section 1 provides an overview of React.js, the popular JavaScript library for building user interfaces. It covers setting up the development environment and guides students through creating their first React component."
+  }
+}

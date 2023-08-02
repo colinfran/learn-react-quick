@@ -1,0 +1,8 @@
+{
+  "label": "Understanding Components",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, we will delve deeper into React components, which are the building blocks of a React application. We'll explore the different types of components, understand JSX, and learn how to compose components to create dynamic user interfaces."
+  }
+}
